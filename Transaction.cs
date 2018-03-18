@@ -2,7 +2,6 @@
 
 public class Transaction
 {
-
     private DateTime date;
     private Double amount;
     private String category;    // Storing as String for now, can be more concrete if desirable.
