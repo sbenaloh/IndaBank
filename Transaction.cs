@@ -1,5 +1,8 @@
 ﻿using System;
 
+/*
+ * This class defines a basic transaction.
+ */ 
 public class Transaction
 {
     private DateTime date;
